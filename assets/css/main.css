@@ -82,6 +82,11 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	iframe {
+		width: 1120px;
+		height: 630px;
+	}
+
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -2322,6 +2327,11 @@ input, select, textarea {
 				padding: 5em 0;
 			}
 
+			iframe {
+				width: 840px;
+				height: 473px;
+			}
+
 	}
 
 /* Narrow */
@@ -2332,6 +2342,11 @@ input, select, textarea {
 
 			body, input, textarea, select {
 				font-size: 16pt;
+			}
+
+			iframe {
+				width: 560px;
+				height: 315px;
 			}
 
 			.container {
@@ -2415,6 +2430,11 @@ input, select, textarea {
 
 			.container {
 				padding: 0 2em 0 2em;
+			}
+
+			iframe {
+				width: 420px;
+				height: 237px;
 			}
 
 		/* Item */
@@ -2608,6 +2628,11 @@ input, select, textarea {
 
 			.container {
 				padding: 0 15px 0 15px;
+			}
+
+			iframe {
+				width: 280px;
+				height: 158px;
 			}
 
 		/* List */
